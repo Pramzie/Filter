@@ -75,7 +75,7 @@ ghibli_filter_switcher/
 
 | Filter | Preview |
 |--------|---------|
-| Pencil | ![Pencil Sketch](https://upload.wikimedia.org/wikipedia/commons/2/24/Leonardo_self.jpg) |
+| Pencil | ![Pencil Sketch]|
 | Sketch | Similar to a grayscale hand-drawn sketch |
 | Oil Paint | Stylized brush stroke effect |
 | Sepia | Warm brown tone like vintage photos |
